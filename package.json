@@ -11,6 +11,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.5.18"
+    "astro": "^4.5.18",
+    "astro-rehype-relative-markdown-links": "github:techfg/astro-rehype-relative-markdown-links#issue-14-15-16-11-18-12",
+    "install": "^0.13.0",
+    "npm": "^10.5.1"
   }
 }
